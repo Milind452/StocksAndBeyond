@@ -1,6 +1,6 @@
-import Preloader from "./components/Preloader/Preloader";
-import Timer from "./components/Countdown/Timer";
-import Optin from "./components/Optin/Optin";
+import Preloader from "./Components/Preloader/Preloader";
+import Timer from "./Components/Countdown/Timer";
+import Optin from "./Components/Optin/Optin";
 
 import "./App.css";
 
